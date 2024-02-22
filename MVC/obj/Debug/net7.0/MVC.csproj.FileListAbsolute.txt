@@ -76,7 +76,6 @@ C:\Users\User\source\repos\Inventario\MVC\obj\Debug\net7.0\staticwebassets\msbui
 C:\Users\User\source\repos\Inventario\MVC\obj\Debug\net7.0\staticwebassets.pack.json
 C:\Users\User\source\repos\Inventario\MVC\obj\Debug\net7.0\scopedcss\bundle\MVC.styles.css
 C:\Users\User\source\repos\Inventario\MVC\obj\Debug\net7.0\scopedcss\projectbundle\MVC.bundle.scp.css
-C:\Users\User\source\repos\Inventario\MVC\obj\Debug\net7.0\MVC.csproj.CopyComplete
 C:\Users\User\source\repos\Inventario\MVC\obj\Debug\net7.0\MVC.dll
 C:\Users\User\source\repos\Inventario\MVC\obj\Debug\net7.0\refint\MVC.dll
 C:\Users\User\source\repos\Inventario\MVC\obj\Debug\net7.0\MVC.pdb
@@ -566,3 +565,4 @@ C:\Users\User\source\repos\Inventario\MVC\bin\Debug\net7.0\tr\Microsoft.CodeAnal
 C:\Users\User\source\repos\Inventario\MVC\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\User\source\repos\Inventario\MVC\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\User\source\repos\Inventario\MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\source\repos\Inventario\MVC\obj\Debug\net7.0\MVC.csproj.Up2Date

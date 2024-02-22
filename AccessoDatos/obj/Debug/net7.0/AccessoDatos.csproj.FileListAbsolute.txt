@@ -15,4 +15,4 @@ C:\Users\User\source\repos\Inventario\AccessoDatos\bin\Debug\net7.0\Utilidades.d
 C:\Users\User\source\repos\Inventario\AccessoDatos\bin\Debug\net7.0\Modelos.pdb
 C:\Users\User\source\repos\Inventario\AccessoDatos\bin\Debug\net7.0\Utilidades.pdb
 C:\Users\User\source\repos\Inventario\AccessoDatos\obj\Debug\net7.0\AccessoDatos.csproj.AssemblyReference.cache
-C:\Users\User\source\repos\Inventario\AccessoDatos\obj\Debug\net7.0\AccessoDatos.csproj.CopyComplete
+C:\Users\User\source\repos\Inventario\AccessoDatos\obj\Debug\net7.0\AccessoD.5919BBEC.Up2Date

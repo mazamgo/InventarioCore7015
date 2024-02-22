@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6/OLIb52JCPBeq2D/eKXixK1NKv9K5kYNqsH08SyAB9+w+FT0vN6oNC6+GExNWIERx2mwNzaN5vsMoyIqx7k5Q==",
+  "dgSpecHash": "5lWlhk888DNERZzQy73xIDGFC5MP2s+5mk7vheck1HdrdLP246Po247hoXfnabjivVKtF+ZrvRisrRgFO7a9hQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\source\\repos\\Inventario\\AccessoDatos\\AccessoDatos.csproj",
   "expectedPackageFiles": [
@@ -62,10 +62,7 @@
     "C:\\Users\\User\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
+    "C:\\Users\\User\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

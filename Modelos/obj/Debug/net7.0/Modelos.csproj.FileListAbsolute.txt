@@ -13,4 +13,4 @@ C:\Users\User\source\repos\Inventario\Modelos\obj\Debug\net7.0\ref\Modelos.dll
 C:\Users\User\source\repos\Inventario\Modelos\bin\Debug\net7.0\Utilidades.dll
 C:\Users\User\source\repos\Inventario\Modelos\bin\Debug\net7.0\Utilidades.pdb
 C:\Users\User\source\repos\Inventario\Modelos\obj\Debug\net7.0\Modelos.csproj.AssemblyReference.cache
-C:\Users\User\source\repos\Inventario\Modelos\obj\Debug\net7.0\Modelos.csproj.CopyComplete
+C:\Users\User\source\repos\Inventario\Modelos\obj\Debug\net7.0\Modelos.csproj.Up2Date
