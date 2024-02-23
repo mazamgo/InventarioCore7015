@@ -13,12 +13,14 @@ namespace AccessoDatos.Repositorio
     {
         private readonly ApplicationDbContext _db;
         public IBodegaRepositorio Bodega { get; private set; }
+        public ICategoriaRepositorio Categoria { get; private set; }
 
         //contructor para iniciarlizar el ApplicationDbContext
         public UnidadTrabajo(ApplicationDbContext db)
         {
            _db = db;
           Bodega = new BodegaRepositorio(db);
+          Categoria = new CategoriaRepositorio(db);
         }
 
         //Este ya fue declarado arriba.

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KvGsBOkYmBiZ3cErsJZA9RHVEGsrD9tovPXkAvV961E=",
+  "Hash": "3fZ0jAW+Y/FsRLp6LAElL6OzVQAgAgH8KhCgqPuIFn8=",
   "Source": "MVC",
   "BasePath": "_content/MVC",
   "Mode": "Default",
@@ -1250,6 +1250,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\bodega.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\js\\categoria.js",
+      "SourceId": "MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\",
+      "BasePath": "_content/MVC",
+      "RelativePath": "js/categoria.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\categoria.js"
     },
     {
       "Identity": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\js\\site.js",
