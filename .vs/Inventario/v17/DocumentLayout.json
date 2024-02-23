@@ -1,28 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Inventario\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\areas\\admin\\views\\categoria\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\admin\\views\\categoria\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\areas\\admin\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\admin\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\areas\\admin\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\admin\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -30,76 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-23T17:18:49.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "categoria.js",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\js\\categoria.js",
-              "RelativeDocumentMoniker": "MVC\\wwwroot\\js\\categoria.js",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\js\\categoria.js",
-              "RelativeToolTip": "MVC\\wwwroot\\js\\categoria.js",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-02-23T17:17:55.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Upsert.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Admin\\Views\\Categoria\\Upsert.cshtml",
-              "RelativeDocumentMoniker": "MVC\\Areas\\Admin\\Views\\Categoria\\Upsert.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Admin\\Views\\Categoria\\Upsert.cshtml",
-              "RelativeToolTip": "MVC\\Areas\\Admin\\Views\\Categoria\\Upsert.cshtml",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAEoAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-23T17:14:29.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Admin\\Views\\Categoria\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVC\\Areas\\Admin\\Views\\Categoria\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Admin\\Views\\Categoria\\Index.cshtml",
-              "RelativeToolTip": "MVC\\Areas\\Admin\\Views\\Categoria\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-23T17:10:32.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoriaController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Admin\\Controllers\\CategoriaController.cs",
-              "RelativeDocumentMoniker": "MVC\\Areas\\Admin\\Controllers\\CategoriaController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Admin\\Controllers\\CategoriaController.cs",
-              "RelativeToolTip": "MVC\\Areas\\Admin\\Controllers\\CategoriaController.cs",
-              "ViewState": "AQIAAGAAAAAAAAAAAAAAAHcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T17:00:35.516Z",
-              "EditorCaption": ""
             }
           ]
         }
