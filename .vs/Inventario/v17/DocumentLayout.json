@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Inventario\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\areas\\admin\\views\\producto\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\admin\\views\\producto\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\areas\\admin\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\admin\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D400B227-7074-4C1F-ADB3-6837FB3627DE}|Modelos\\Modelos.csproj|c:\\users\\user\\source\\repos\\inventario\\modelos\\viewmodels\\productovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D400B227-7074-4C1F-ADB3-6837FB3627DE}|Modelos\\Modelos.csproj|solutionrelative:modelos\\viewmodels\\productovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C79E70-00E3-41AB-8127-3F2656680FC5}|AccessoDatos\\AccessoDatos.csproj|c:\\users\\user\\source\\repos\\inventario\\accessodatos\\repositorio\\productorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C79E70-00E3-41AB-8127-3F2656680FC5}|AccessoDatos\\AccessoDatos.csproj|solutionrelative:accessodatos\\repositorio\\productorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\AccessoDatos\\Repositorio\\ProductoRepositorio.cs",
+              "RelativeDocumentMoniker": "AccessoDatos\\Repositorio\\ProductoRepositorio.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\AccessoDatos\\Repositorio\\ProductoRepositorio.cs",
+              "RelativeToolTip": "AccessoDatos\\Repositorio\\ProductoRepositorio.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:20:36.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\Modelos\\ViewModels\\ProductoVM.cs",
+              "RelativeDocumentMoniker": "Modelos\\ViewModels\\ProductoVM.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\Modelos\\ViewModels\\ProductoVM.cs",
+              "RelativeToolTip": "Modelos\\ViewModels\\ProductoVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:19:14.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Admin\\Views\\Producto\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Areas\\Admin\\Views\\Producto\\Upsert.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Admin\\Views\\Producto\\Upsert.cshtml",
+              "RelativeToolTip": "MVC\\Areas\\Admin\\Views\\Producto\\Upsert.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAF0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T22:00:15.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Admin\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "MVC\\Areas\\Admin\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Admin\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "MVC\\Areas\\Admin\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAJ8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T22:23:00.928Z",
+              "EditorCaption": ""
             }
           ]
         }

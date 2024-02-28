@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\imagenes\\producto\\5d7f9668-e03f-42d9-b29a-3127a893803e.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\5d7f9668-e03f-42d9-b29a-3127a893803e.JPG"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\imagenes\\producto\\6bdf5de3-6fae-49d8-a876-4e7aeabfbc2a.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\6bdf5de3-6fae-49d8-a876-4e7aeabfbc2a.JPG"
+    },
+    {
       "Id": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\js\\bodega.js",
       "PackagePath": "staticwebassets\\js\\bodega.js"
     },
@@ -23,6 +31,10 @@
     {
       "Id": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\js\\marca.js",
       "PackagePath": "staticwebassets\\js\\marca.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\js\\producto.js",
+      "PackagePath": "staticwebassets\\js\\producto.js"
     },
     {
       "Id": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\js\\site.js",
