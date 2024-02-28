@@ -13,12 +13,40 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\imagenes\\producto\\5d7f9668-e03f-42d9-b29a-3127a893803e.JPG",
-      "PackagePath": "staticwebassets\\imagenes\\producto\\5d7f9668-e03f-42d9-b29a-3127a893803e.JPG"
+      "Id": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\imagenes\\icono.ico",
+      "PackagePath": "staticwebassets\\imagenes\\icono.ico"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\imagenes\\icono.png",
+      "PackagePath": "staticwebassets\\imagenes\\icono.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\imagenes\\producto\\141473fd-9ee3-4542-bb17-4904d97c0e8c.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\141473fd-9ee3-4542-bb17-4904d97c0e8c.JPG"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\imagenes\\producto\\20e0ee19-8a32-48b0-8bfa-5d345d8936da.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\20e0ee19-8a32-48b0-8bfa-5d345d8936da.JPG"
     },
     {
       "Id": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\imagenes\\producto\\6bdf5de3-6fae-49d8-a876-4e7aeabfbc2a.JPG",
       "PackagePath": "staticwebassets\\imagenes\\producto\\6bdf5de3-6fae-49d8-a876-4e7aeabfbc2a.JPG"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\imagenes\\producto\\ac8cdd24-a3f4-445f-8126-f5b536fea1b9.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\ac8cdd24-a3f4-445f-8126-f5b536fea1b9.JPG"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\imagenes\\producto\\ac924489-ea38-436c-ab7d-45ec8bbace07.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\ac924489-ea38-436c-ab7d-45ec8bbace07.JPG"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\imagenes\\producto\\ec36a613-115f-4d28-b33e-9f81e6fddad3.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\ec36a613-115f-4d28-b33e-9f81e6fddad3.JPG"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\imagenes\\producto\\fb803e9c-3636-4175-a2a1-95e9a1d5c6dd.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\fb803e9c-3636-4175-a2a1-95e9a1d5c6dd.JPG"
     },
     {
       "Id": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\js\\bodega.js",
