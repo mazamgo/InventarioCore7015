@@ -1,6 +1,7 @@
 ﻿using AccesoDatos.Data;
 using AccessoDatos.Repositorio.IRepositorio;
 using Microsoft.EntityFrameworkCore;
+using Modelos.Especificaciones;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -73,6 +74,40 @@ namespace AccessoDatos.Repositorio
             return await query.ToListAsync();
         }
 
+        PagedList<T> IRepositorio<T>.ObtenerTodosPaginado(Parametros parametros, Expression<Func<T, bool>> filtro, Func<IQueryable<T>, IOrderedQueryable<T>> orderBy, string incluirPropiedades, bool isTracking)
+        {
+
+            IQueryable<T> query = dbSet;
+
+            if (filtro != null)
+            {
+                query = query.Where(filtro); //select * from where...
+            }
+
+            if (incluirPropiedades != null)
+            {
+                foreach (var incluirProp in incluirPropiedades.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
+                {
+                    query = query.Include(incluirProp);
+                }
+            }
+
+            if (orderBy != null)
+            {
+                query = orderBy(query);
+            }
+
+            if (!isTracking)
+            {
+                query = query.AsNoTracking();
+            }
+
+            return PagedList<T>.ToPagedList(query,parametros.PageNumber, parametros.PageSize);  
+
+
+
+        }
+
         public async Task<T> get_Firts(Expression<Func<T, bool>> filtro = null, string incluirPropiedades = null, bool isTracking = true)
         {
             IQueryable<T> query = dbSet;
@@ -97,5 +132,7 @@ namespace AccessoDatos.Repositorio
 
             return await query.FirstOrDefaultAsync();
         }
+
+       
     }
 }

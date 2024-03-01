@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Modelos.Especificaciones;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
@@ -19,6 +20,11 @@ namespace AccessoDatos.Repositorio.IRepositorio
             string incluirPropiedades = null, //Enlazar otros objetos
             bool isTracking = true //Modificar un objeto o una lista de objetos
             );
+
+        PagedList<T> ObtenerTodosPaginado(Parametros parametros, Expression<Func<T, bool>> filtro = null,
+        Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null,
+        string incluirPropiedades = null,
+        bool isTracking = true);
 
         Task<T> get_Firts( Expression<Func<T,bool>> filtro = null,
             string incluirPropiedades = null, 
