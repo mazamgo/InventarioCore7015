@@ -12,6 +12,7 @@ namespace AccessoDatos.Repositorio.IRepositorio
         ICategoriaRepositorio Categoria { get; }
         IMarcaRepositorio Marca { get; }
         IProductoRepositorio Producto { get; }
+        IUsuarioAplicacionRepositorio UsuarioAplicacion { get; }
 
         Task Guardar(); //Metodo Asincronico.
 

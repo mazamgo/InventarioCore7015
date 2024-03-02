@@ -16,6 +16,7 @@ namespace AccessoDatos.Repositorio
         public ICategoriaRepositorio Categoria { get; private set; }
         public IMarcaRepositorio Marca {  get; private set; }
         public IProductoRepositorio Producto { get; private set; }
+        public IUsuarioAplicacionRepositorio UsuarioAplicacion { get; private set; }
 
         //contructor para iniciarlizar el ApplicationDbContext
         public UnidadTrabajo(ApplicationDbContext db)
@@ -25,6 +26,7 @@ namespace AccessoDatos.Repositorio
           Categoria = new CategoriaRepositorio(db);
           Marca = new MarcaRepositorio(db);
           Producto = new ProductoRepositorio(db);
+          UsuarioAplicacion = new UsuarioAplicacionRepositorio(db);
         }
 
         //Este ya fue declarado arriba.
