@@ -2,7 +2,9 @@ using AccesoDatos.Data;
 using AccessoDatos.Repositorio;
 using AccessoDatos.Repositorio.IRepositorio;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.EntityFrameworkCore;
+using Utilidades;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,9 +14,19 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+//builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+//    .AddEntityFrameworkStores<ApplicationDbContext>();
+//builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
+
+builder.Services.AddIdentity<IdentityUser, IdentityRole>(options => options.SignIn.RequireConfirmedAccount = false)
+    .AddDefaultTokenProviders()
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
+
+builder.Services.AddRazorPages();
+
+builder.Services.AddSingleton<IEmailSender, EmailSender>();
+
 
 //AddScoped permite que se cree el servicio una vez y permite que se siga utilizando.
 builder.Services.AddScoped<IUnidadTrabajo, UnidadTrabajo>();

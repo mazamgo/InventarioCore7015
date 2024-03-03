@@ -10,3 +10,4 @@ C:\Users\User\source\repos\Inventario\Utilidades\obj\Debug\net7.0\Utilidades.dll
 C:\Users\User\source\repos\Inventario\Utilidades\obj\Debug\net7.0\refint\Utilidades.dll
 C:\Users\User\source\repos\Inventario\Utilidades\obj\Debug\net7.0\Utilidades.pdb
 C:\Users\User\source\repos\Inventario\Utilidades\obj\Debug\net7.0\ref\Utilidades.dll
+C:\Users\User\source\repos\Inventario\Utilidades\obj\Debug\net7.0\Utilidades.csproj.AssemblyReference.cache
