@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "H1qDu5H1fbixFH+YheiUEjyQ6/4rCmeBC2J5RlrKsXE=",
+  "Hash": "yIE8cwFEhqGqu2iNTr+CiHfxQkBg4DD66InEqImz4oA=",
   "Source": "MVC",
   "BasePath": "_content/MVC",
   "Mode": "Default",
@@ -1497,6 +1497,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\js\\usuario.js",
+      "SourceId": "MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\",
+      "BasePath": "_content/MVC",
+      "RelativePath": "js/usuario.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\usuario.js"
     },
     {
       "Identity": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
