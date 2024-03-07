@@ -1,4 +1,5 @@
 ﻿using AccessoDatos.Repositorio.IRepositorio;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Modelos;
 using Utilidades;
@@ -6,6 +7,7 @@ using Utilidades;
 namespace MVC.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = DS.Role_Admin + "," + DS.Role_Inventario)]
     public class CategoriaController : Controller
     {
         //Instanciar nuestra Area de Trabajo
