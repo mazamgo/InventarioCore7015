@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Nq2voypo0kna3UYZo04wNlIEYsl3Un/7VZGqj6eUGHcdrCHZp+sZuzgM4A22aULtmji5fKbEklLtSt/MsZ83UQ==",
+  "dgSpecHash": "FeNPYXySubkKMJonqxPB6X3ZCl9YLN6SAbG62yC7aPwRbPbGNJBTvUFpe6gOsBKkY49CkTsYbm1B1f0dqTmnLQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\source\\repos\\Inventario\\Utilidades\\Utilidades.csproj",
   "expectedPackageFiles": [
@@ -17,7 +17,10 @@
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\sendgrid\\9.29.2\\sendgrid.9.29.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\starkbank-ecdsa\\1.3.3\\starkbank-ecdsa.1.3.3.nupkg.sha512"
   ],
   "logs": []
 }
