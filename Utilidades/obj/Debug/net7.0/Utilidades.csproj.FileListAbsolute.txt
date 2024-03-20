@@ -1,6 +1,7 @@
 C:\Users\User\source\repos\Inventario\Utilidades\bin\Debug\net7.0\Utilidades.deps.json
 C:\Users\User\source\repos\Inventario\Utilidades\bin\Debug\net7.0\Utilidades.dll
 C:\Users\User\source\repos\Inventario\Utilidades\bin\Debug\net7.0\Utilidades.pdb
+C:\Users\User\source\repos\Inventario\Utilidades\obj\Debug\net7.0\Utilidades.csproj.AssemblyReference.cache
 C:\Users\User\source\repos\Inventario\Utilidades\obj\Debug\net7.0\Utilidades.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\User\source\repos\Inventario\Utilidades\obj\Debug\net7.0\Utilidades.AssemblyInfoInputs.cache
 C:\Users\User\source\repos\Inventario\Utilidades\obj\Debug\net7.0\Utilidades.AssemblyInfo.cs
@@ -10,4 +11,3 @@ C:\Users\User\source\repos\Inventario\Utilidades\obj\Debug\net7.0\Utilidades.dll
 C:\Users\User\source\repos\Inventario\Utilidades\obj\Debug\net7.0\refint\Utilidades.dll
 C:\Users\User\source\repos\Inventario\Utilidades\obj\Debug\net7.0\Utilidades.pdb
 C:\Users\User\source\repos\Inventario\Utilidades\obj\Debug\net7.0\ref\Utilidades.dll
-C:\Users\User\source\repos\Inventario\Utilidades\obj\Debug\net7.0\Utilidades.csproj.AssemblyReference.cache

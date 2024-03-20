@@ -1,3 +1,9 @@
+C:\Users\User\source\repos\Inventario\AccessoDatos\obj\Debug\net7.0\AccessoDatos.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Inventario\AccessoDatos\obj\Debug\net7.0\AccessoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Inventario\AccessoDatos\obj\Debug\net7.0\AccessoDatos.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Inventario\AccessoDatos\obj\Debug\net7.0\AccessoDatos.AssemblyInfo.cs
+C:\Users\User\source\repos\Inventario\AccessoDatos\obj\Debug\net7.0\AccessoDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Inventario\AccessoDatos\obj\Debug\net7.0\AccessoDatos.sourcelink.json
 C:\Users\User\source\repos\Inventario\AccessoDatos\bin\Debug\net7.0\AccessoDatos.deps.json
 C:\Users\User\source\repos\Inventario\AccessoDatos\bin\Debug\net7.0\AccessoDatos.dll
 C:\Users\User\source\repos\Inventario\AccessoDatos\bin\Debug\net7.0\AccessoDatos.pdb
@@ -5,12 +11,6 @@ C:\Users\User\source\repos\Inventario\AccessoDatos\bin\Debug\net7.0\Modelos.dll
 C:\Users\User\source\repos\Inventario\AccessoDatos\bin\Debug\net7.0\Utilidades.dll
 C:\Users\User\source\repos\Inventario\AccessoDatos\bin\Debug\net7.0\Modelos.pdb
 C:\Users\User\source\repos\Inventario\AccessoDatos\bin\Debug\net7.0\Utilidades.pdb
-C:\Users\User\source\repos\Inventario\AccessoDatos\obj\Debug\net7.0\AccessoDatos.csproj.AssemblyReference.cache
-C:\Users\User\source\repos\Inventario\AccessoDatos\obj\Debug\net7.0\AccessoDatos.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User\source\repos\Inventario\AccessoDatos\obj\Debug\net7.0\AccessoDatos.AssemblyInfoInputs.cache
-C:\Users\User\source\repos\Inventario\AccessoDatos\obj\Debug\net7.0\AccessoDatos.AssemblyInfo.cs
-C:\Users\User\source\repos\Inventario\AccessoDatos\obj\Debug\net7.0\AccessoDatos.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\Inventario\AccessoDatos\obj\Debug\net7.0\AccessoDatos.sourcelink.json
 C:\Users\User\source\repos\Inventario\AccessoDatos\obj\Debug\net7.0\AccessoD.5919BBEC.Up2Date
 C:\Users\User\source\repos\Inventario\AccessoDatos\obj\Debug\net7.0\AccessoDatos.dll
 C:\Users\User\source\repos\Inventario\AccessoDatos\obj\Debug\net7.0\refint\AccessoDatos.dll

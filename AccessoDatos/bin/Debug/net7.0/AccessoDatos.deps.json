@@ -1528,6 +1528,7 @@
       "Modelos/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0",
+          "Microsoft.EntityFrameworkCore": "7.0.15",
           "Microsoft.Extensions.Identity.Stores": "7.0.15",
           "Utilidades": "1.0.0"
         },

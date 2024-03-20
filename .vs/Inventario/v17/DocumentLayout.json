@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Inventario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\areas\\inventario\\views\\inventario\\kardexproductoresultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\inventario\\views\\inventario\\kardexproductoresultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D67BAE16-E0DB-4543-A4FD-7E5E6838D3AB}|Utilidades\\Utilidades.csproj|c:\\users\\user\\source\\repos\\inventario\\utilidades\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D67BAE16-E0DB-4543-A4FD-7E5E6838D3AB}|Utilidades\\Utilidades.csproj|solutionrelative:utilidades\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\areas\\inventario\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\inventario\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D400B227-7074-4C1F-ADB3-6837FB3627DE}|Modelos\\Modelos.csproj|c:\\users\\user\\source\\repos\\inventario\\modelos\\bodegaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D400B227-7074-4C1F-ADB3-6837FB3627DE}|Modelos\\Modelos.csproj|solutionrelative:modelos\\bodegaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\areas\\inventario\\views\\inventario\\kardexproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\inventario\\views\\inventario\\kardexproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\areas\\inventario\\views\\inventario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\inventario\\views\\inventario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,40 +38,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "MVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "MVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AQIAANcAAAAAAAAAAAAtwNoAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "BodegaProducto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\Modelos\\BodegaProducto.cs",
+              "RelativeDocumentMoniker": "Modelos\\BodegaProducto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\Modelos\\BodegaProducto.cs",
+              "RelativeToolTip": "Modelos\\BodegaProducto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T02:47:18.427Z",
+              "WhenOpened": "2024-03-20T22:27:44.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KardexProductoResultado.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Inventario\\Views\\Inventario\\KardexProductoResultado.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Areas\\Inventario\\Views\\Inventario\\KardexProductoResultado.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Inventario\\Views\\Inventario\\KardexProductoResultado.cshtml",
+              "RelativeToolTip": "MVC\\Areas\\Inventario\\Views\\Inventario\\KardexProductoResultado.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T21:29:54.497Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EmailSender.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\Utilidades\\EmailSender.cs",
-              "RelativeDocumentMoniker": "Utilidades\\EmailSender.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\Utilidades\\EmailSender.cs",
-              "RelativeToolTip": "Utilidades\\EmailSender.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAACAAAAAIAAAA",
+              "Title": "InventarioController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Inventario\\Controllers\\InventarioController.cs",
+              "RelativeDocumentMoniker": "MVC\\Areas\\Inventario\\Controllers\\InventarioController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Inventario\\Controllers\\InventarioController.cs",
+              "RelativeToolTip": "MVC\\Areas\\Inventario\\Controllers\\InventarioController.cs",
+              "ViewState": "AQIAAOIAAAAAAAAAAAAtwOoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T17:15:30.424Z"
+              "WhenOpened": "2024-03-17T23:38:38.678Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\appsettings.json",
-              "RelativeDocumentMoniker": "MVC\\appsettings.json",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\appsettings.json",
-              "RelativeToolTip": "MVC\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-08T17:06:16.014Z"
+              "DocumentIndex": 3,
+              "Title": "KardexProducto.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Inventario\\Views\\Inventario\\KardexProducto.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Areas\\Inventario\\Views\\Inventario\\KardexProducto.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Inventario\\Views\\Inventario\\KardexProducto.cshtml",
+              "RelativeToolTip": "MVC\\Areas\\Inventario\\Views\\Inventario\\KardexProducto.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T15:37:50.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Inventario\\Views\\Inventario\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Areas\\Inventario\\Views\\Inventario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Inventario\\Views\\Inventario\\Index.cshtml",
+              "RelativeToolTip": "MVC\\Areas\\Inventario\\Views\\Inventario\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T15:33:43.148Z"
             }
           ]
         }
