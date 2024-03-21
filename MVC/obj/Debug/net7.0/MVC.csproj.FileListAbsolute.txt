@@ -599,3 +599,6 @@ C:\Users\User\source\repos\Inventario\MVC\obj\Debug\net7.0\MVC.pdb
 C:\Users\User\source\repos\Inventario\MVC\obj\Debug\net7.0\MVC.genruntimeconfig.cache
 C:\Users\User\source\repos\Inventario\MVC\obj\Debug\net7.0\ref\MVC.dll
 C:\Users\User\source\repos\Inventario\MVC\bin\Debug\net7.0\libman.json
+C:\Users\User\source\repos\Inventario\MVC\bin\Debug\net7.0\Rotativa\Windows\wkhtmltoimage.exe
+C:\Users\User\source\repos\Inventario\MVC\bin\Debug\net7.0\Rotativa\Windows\wkhtmltopdf.exe
+C:\Users\User\source\repos\Inventario\MVC\bin\Debug\net7.0\Rotativa.AspNetCore.dll
