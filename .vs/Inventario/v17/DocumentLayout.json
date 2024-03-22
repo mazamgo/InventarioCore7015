@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Inventario\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\areas\\admin\\controllers\\companiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\admin\\controllers\\companiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\areas\\inventario\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\inventario\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\areas\\inventario\\views\\inventario\\kardexproductoresultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\inventario\\views\\inventario\\kardexproductoresultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\areas\\admin\\views\\compania\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\admin\\views\\compania\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\areas\\inventario\\views\\inventario\\imprimirkardex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\inventario\\views\\inventario\\imprimirkardex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\areas\\inventario\\views\\inventario\\kardexproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\inventario\\views\\inventario\\kardexproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\areas\\inventario\\views\\inventario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\inventario\\views\\inventario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ImprimirKardex.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Inventario\\Views\\Inventario\\ImprimirKardex.cshtml",
-              "RelativeDocumentMoniker": "MVC\\Areas\\Inventario\\Views\\Inventario\\ImprimirKardex.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Inventario\\Views\\Inventario\\ImprimirKardex.cshtml",
-              "RelativeToolTip": "MVC\\Areas\\Inventario\\Views\\Inventario\\ImprimirKardex.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T16:30:09.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "KardexProductoResultado.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Inventario\\Views\\Inventario\\KardexProductoResultado.cshtml",
-              "RelativeDocumentMoniker": "MVC\\Areas\\Inventario\\Views\\Inventario\\KardexProductoResultado.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Inventario\\Views\\Inventario\\KardexProductoResultado.cshtml",
-              "RelativeToolTip": "MVC\\Areas\\Inventario\\Views\\Inventario\\KardexProductoResultado.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T21:29:54.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "InventarioController.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Inventario\\Controllers\\InventarioController.cs",
               "RelativeDocumentMoniker": "MVC\\Areas\\Inventario\\Controllers\\InventarioController.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Inventario\\Controllers\\InventarioController.cs",
               "RelativeToolTip": "MVC\\Areas\\Inventario\\Controllers\\InventarioController.cs",
-              "ViewState": "AQIAAPYAAAAAAAAAAAAAAP4AAAAPAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T23:38:38.678Z",
+              "WhenOpened": "2024-03-21T23:51:26.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "KardexProducto.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Inventario\\Views\\Inventario\\KardexProducto.cshtml",
-              "RelativeDocumentMoniker": "MVC\\Areas\\Inventario\\Views\\Inventario\\KardexProducto.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Inventario\\Views\\Inventario\\KardexProducto.cshtml",
-              "RelativeToolTip": "MVC\\Areas\\Inventario\\Views\\Inventario\\KardexProducto.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABcAAAA",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADcAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T15:37:50.564Z",
+              "WhenOpened": "2024-03-21T23:49:57.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Inventario\\Views\\Inventario\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVC\\Areas\\Inventario\\Views\\Inventario\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Inventario\\Views\\Inventario\\Index.cshtml",
-              "RelativeToolTip": "MVC\\Areas\\Inventario\\Views\\Inventario\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "DocumentIndex": 2,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Admin\\Views\\Compania\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Areas\\Admin\\Views\\Compania\\Upsert.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Admin\\Views\\Compania\\Upsert.cshtml",
+              "RelativeToolTip": "MVC\\Areas\\Admin\\Views\\Compania\\Upsert.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFEAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T15:33:43.148Z",
+              "WhenOpened": "2024-03-21T23:46:31.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompaniaController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Admin\\Controllers\\CompaniaController.cs",
+              "RelativeDocumentMoniker": "MVC\\Areas\\Admin\\Controllers\\CompaniaController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Admin\\Controllers\\CompaniaController.cs",
+              "RelativeToolTip": "MVC\\Areas\\Admin\\Controllers\\CompaniaController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAtwE0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T22:34:14.667Z",
               "EditorCaption": ""
             }
           ]

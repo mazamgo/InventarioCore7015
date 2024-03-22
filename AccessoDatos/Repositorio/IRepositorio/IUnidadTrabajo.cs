@@ -17,6 +17,7 @@ namespace AccessoDatos.Repositorio.IRepositorio
         IInventarioRepositorio Inventario { get; }
         IInventarioDetalleRepositorio InventarioDetalle { get; }
         IKardexInventarioRepositorio KardexInventario { get; }
+        ICompaniaRepositorio Compania { get; }
 
         Task Guardar(); //Metodo Asincronico.
 
