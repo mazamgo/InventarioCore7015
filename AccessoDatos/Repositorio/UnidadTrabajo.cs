@@ -23,6 +23,9 @@ namespace AccessoDatos.Repositorio
         public IInventarioDetalleRepositorio InventarioDetalle { get; private set; }
         public IKardexInventarioRepositorio KardexInventario { get; private set; }
         public ICompaniaRepositorio Compania { get; private set; }
+        public ICarroCompraRepositorio CarroCompra { get; private set; }
+        public IOrdenRepositorio Orden { get; private set; }
+        public IOrdenDetalleRepositorio OrdenDetalle { get; private set; }
 
         //contructor para iniciarlizar el ApplicationDbContext
         public UnidadTrabajo(ApplicationDbContext db)
@@ -38,6 +41,9 @@ namespace AccessoDatos.Repositorio
               InventarioDetalle = new InventarioDetalleRepositorio(_db);
               KardexInventario = new KardexInventarioRepositorio(_db);
               Compania = new CompaniaRepositorio(_db);
+              CarroCompra = new CarroCompraRepositorio(_db);
+              Orden = new OrdenRepositorio(_db);
+              OrdenDetalle = new OrdenDetalleRepositorio(_db);
         }
 
         //Este ya fue declarado arriba.
