@@ -1,4 +1,7 @@
 ﻿@using Utilidades
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor httpContextAccesor
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -84,6 +87,25 @@
 
                                 </ul>
                             </li>
+                        }
+
+                        @if(httpContextAccesor.HttpContext.Session.GetInt32(DS.ssCarroCompras) != null)
+                        {
+                            <li>
+                                <a asp-area="Inventario" asp-controller="Carro" asp-action="Index" class="nav-link" >
+                                    @{
+                                        var numeroProductos = httpContextAccesor.HttpContext.Session.GetInt32(DS.ssCarroCompras);
+                                    }
+                                    <i class="bi bi-cart-fill text-primary">&nbsp; (@numeroProductos)</i>
+                                </a>
+                            </li>
+                        } else
+                        { // si el usuario no esta conectado.
+                            <li>
+                                <a href="#" class="nav-link">
+                                    <i class="bi bi-cart-fill text-primary"></i>
+                                </a>
+                            </li>                            
                         }
 
                        
