@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UXt7p/QP27oPpcvWr7gOIizlCkLA3/+5jKNVlqkAh/XBzHhioWK2AliXHTxAwwsJeDTPvtekG4tYB72NfpP/eQ==",
+  "dgSpecHash": "hTRRFQVN6Ieg7tb0YbwdVqorvEobhsUYC9k3rRHWXPsQc+b7S9wGLa1ETJnd2hxF0t6RJeW9yY2BsI+OcBOUqg==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\MVC.csproj",
   "expectedPackageFiles": [
@@ -196,6 +196,7 @@
     "C:\\Users\\User\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.4\\sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.4\\sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\starkbank-ecdsa\\1.3.3\\starkbank-ecdsa.1.3.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\stripe.net\\43.20.0\\stripe.net.43.20.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EMFgq2VcjVFSybAEi43UxR/T0sUNShW2GqUj79wdxP8=",
+  "Hash": "q0lONF0BleaYmOtp/KLL+ATs+s8d5Pl9HN/fLFTwJsM=",
   "Source": "MVC",
   "BasePath": "_content/MVC",
   "Mode": "Default",
@@ -1231,6 +1231,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\imagenes\\confirmacion.jpg",
+      "SourceId": "MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\",
+      "BasePath": "_content/MVC",
+      "RelativePath": "imagenes/confirmacion.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\confirmacion.jpg"
     },
     {
       "Identity": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\imagenes\\icono.ico",

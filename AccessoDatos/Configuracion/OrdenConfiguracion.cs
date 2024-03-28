@@ -27,6 +27,7 @@ namespace AccessoDatos.Configuracion
             builder.Property(x => x.Direccion).IsRequired(false);
             builder.Property(x => x.Ciudad).IsRequired(false);
             builder.Property(x => x.Pais).IsRequired(false);
+            builder.Property(x => x.SessionId).IsRequired(false);
 
             builder.HasOne(x => x.UsuarioAplicacion).WithMany()
               .HasForeignKey(x => x.UsuarioAplicacionId)

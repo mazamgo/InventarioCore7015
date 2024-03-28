@@ -11,5 +11,10 @@ namespace AccessoDatos.Repositorio.IRepositorio
     {
         //Esto se realiza pq cada objeto tiene sus propias propiedades.
         void Actualizar(Orden orden);
+
+        void ActualizaEstado(int id, string ordenEstado, string pagoEstado);
+
+        void ActualizarPagoStripeId(int id, string sessionId, string transaccionId);
+
     }
 }

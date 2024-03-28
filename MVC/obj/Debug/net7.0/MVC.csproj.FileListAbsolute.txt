@@ -602,3 +602,4 @@ C:\Users\User\source\repos\Inventario\MVC\bin\Debug\net7.0\libman.json
 C:\Users\User\source\repos\Inventario\MVC\bin\Debug\net7.0\Rotativa\Windows\wkhtmltoimage.exe
 C:\Users\User\source\repos\Inventario\MVC\bin\Debug\net7.0\Rotativa\Windows\wkhtmltopdf.exe
 C:\Users\User\source\repos\Inventario\MVC\bin\Debug\net7.0\Rotativa.AspNetCore.dll
+C:\Users\User\source\repos\Inventario\MVC\bin\Debug\net7.0\Stripe.net.dll
