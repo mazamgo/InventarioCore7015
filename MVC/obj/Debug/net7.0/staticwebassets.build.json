@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "q0lONF0BleaYmOtp/KLL+ATs+s8d5Pl9HN/fLFTwJsM=",
+  "Hash": "iNqZUS7TPsWgDQVIA/7HTN2E5J1/ryEb8FCy1Nq+xcs=",
   "Source": "MVC",
   "BasePath": "_content/MVC",
   "Mode": "Default",
@@ -1497,6 +1497,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\marca.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\js\\orden.js",
+      "SourceId": "MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\",
+      "BasePath": "_content/MVC",
+      "RelativePath": "js/orden.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\orden.js"
     },
     {
       "Identity": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\wwwroot\\js\\producto.js",

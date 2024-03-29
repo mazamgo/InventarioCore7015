@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Inventario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22C79E70-00E3-41AB-8127-3F2656680FC5}|AccessoDatos\\AccessoDatos.csproj|c:\\users\\user\\source\\repos\\inventario\\accessodatos\\repositorio\\ordenrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22C79E70-00E3-41AB-8127-3F2656680FC5}|AccessoDatos\\AccessoDatos.csproj|solutionrelative:accessodatos\\repositorio\\ordenrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\areas\\admin\\views\\orden\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\admin\\views\\orden\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\areas\\inventario\\controllers\\carrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\inventario\\controllers\\carrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\areas\\admin\\controllers\\ordencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\admin\\controllers\\ordencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D400B227-7074-4C1F-ADB3-6837FB3627DE}|Modelos\\Modelos.csproj|c:\\users\\user\\source\\repos\\inventario\\modelos\\viewmodels\\ordendetallevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D400B227-7074-4C1F-ADB3-6837FB3627DE}|Modelos\\Modelos.csproj|solutionrelative:modelos\\viewmodels\\ordendetallevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\areas\\admin\\views\\orden\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\admin\\views\\orden\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\areas\\inventario\\views\\carro\\ordenconfirmacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\inventario\\views\\carro\\ordenconfirmacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\areas\\inventario\\views\\carro\\proceder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\inventario\\views\\carro\\proceder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\areas\\inventario\\views\\carro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\inventario\\views\\carro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|c:\\users\\user\\source\\repos\\inventario\\mvc\\areas\\inventario\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE1C933F-01A1-4C5E-BA1A-4699C03646E8}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\inventario\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,19 +39,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "OrdenRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\AccessoDatos\\Repositorio\\OrdenRepositorio.cs",
-              "RelativeDocumentMoniker": "AccessoDatos\\Repositorio\\OrdenRepositorio.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\AccessoDatos\\Repositorio\\OrdenRepositorio.cs",
-              "RelativeToolTip": "AccessoDatos\\Repositorio\\OrdenRepositorio.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAtwCoAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T21:56:57.981Z",
+              "Title": "Detalle.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Admin\\Views\\Orden\\Detalle.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Areas\\Admin\\Views\\Orden\\Detalle.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Admin\\Views\\Orden\\Detalle.cshtml",
+              "RelativeToolTip": "MVC\\Areas\\Admin\\Views\\Orden\\Detalle.cshtml",
+              "ViewState": "AQIAAOcAAAAAAAAAAAAAAPYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T17:29:30.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "OrdenDetalleVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\Modelos\\ViewModels\\OrdenDetalleVM.cs",
+              "RelativeDocumentMoniker": "Modelos\\ViewModels\\OrdenDetalleVM.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\Modelos\\ViewModels\\OrdenDetalleVM.cs",
+              "RelativeToolTip": "Modelos\\ViewModels\\OrdenDetalleVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T17:10:03.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Admin\\Views\\Orden\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Areas\\Admin\\Views\\Orden\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Admin\\Views\\Orden\\Index.cshtml",
+              "RelativeToolTip": "MVC\\Areas\\Admin\\Views\\Orden\\Index.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T16:00:33.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdenController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Admin\\Controllers\\OrdenController.cs",
+              "RelativeDocumentMoniker": "MVC\\Areas\\Admin\\Controllers\\OrdenController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Admin\\Controllers\\OrdenController.cs",
+              "RelativeToolTip": "MVC\\Areas\\Admin\\Controllers\\OrdenController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwEEAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T15:53:47.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "OrdenConfirmacion.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Inventario\\Views\\Carro\\OrdenConfirmacion.cshtml",
               "RelativeDocumentMoniker": "MVC\\Areas\\Inventario\\Views\\Carro\\OrdenConfirmacion.cshtml",
@@ -63,58 +96,7 @@
               "RelativeToolTip": "MVC\\Areas\\Inventario\\Views\\Carro\\OrdenConfirmacion.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-28T21:01:21.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Proceder.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Inventario\\Views\\Carro\\Proceder.cshtml",
-              "RelativeDocumentMoniker": "MVC\\Areas\\Inventario\\Views\\Carro\\Proceder.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Inventario\\Views\\Carro\\Proceder.cshtml",
-              "RelativeToolTip": "MVC\\Areas\\Inventario\\Views\\Carro\\Proceder.cshtml",
-              "ViewState": "AQIAAIEAAAAAAAAAAAAcwJYAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-27T16:59:48.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Inventario\\Views\\Carro\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVC\\Areas\\Inventario\\Views\\Carro\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Inventario\\Views\\Carro\\Index.cshtml",
-              "RelativeToolTip": "MVC\\Areas\\Inventario\\Views\\Carro\\Index.cshtml",
-              "ViewState": "AQIAAEkAAAAAAAAAAABBwEwAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-26T16:15:53.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CarroController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Inventario\\Controllers\\CarroController.cs",
-              "RelativeDocumentMoniker": "MVC\\Areas\\Inventario\\Controllers\\CarroController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Inventario\\Controllers\\CarroController.cs",
-              "RelativeToolTip": "MVC\\Areas\\Inventario\\Controllers\\CarroController.cs",
-              "ViewState": "AQIAAPcAAAAAAAAAAAAIwAYBAABaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T15:27:33.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Inventario\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MVC\\Areas\\Inventario\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventario\\MVC\\Areas\\Inventario\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MVC\\Areas\\Inventario\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAABBwCYAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T21:07:51.602Z"
+              "WhenOpened": "2024-03-28T21:01:21.936Z"
             }
           ]
         }
